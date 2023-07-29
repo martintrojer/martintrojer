@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @martintrojer
 - 👀 I’m interested in functional programming; Haskell, OCaml, Rust, Clojure, Scala
-- 🌱 I’m currently learning; Rust
 - 📫 How to reach me @martintrojer on twitter
 
 <!---
