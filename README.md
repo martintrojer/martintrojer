@@ -5,7 +5,7 @@ I build terminal tools to sharpen my workflow, and keep tinkering with a Wayland
 - 🤖 [mu-crew](https://github.com/mu-crew): [mu](https://github.com/mu-crew/mu) · [murmur](https://github.com/mu-crew/murmur) ·
  [mule](https://github.com/mu-crew/mule) · [museum](https://github.com/mu-crew/museum), a persistent crew of pi agents across all my
  machines
-- 📝 Notes: [mdroots](https://github.com/martintrojer/mdroots) · [ramble](https://github.com/martintrojer/ramble) ·
+- 📝 Notes: [mdroots](https://github.com/martintrojer/mdroots) · [ramble](https://github.com/martintrojer/ramble) · [debrief](https://github.com/martintrojer/debrief) ·
  [carddown](https://github.com/martintrojer/carddown) · [vecgrep](https://github.com/martintrojer/vecgrep)
 - 🌿 Neovim: [jj-fugitive](https://github.com/martintrojer/jj-fugitive) ·
  [sl-fugitive](https://github.com/martintrojer/sl-fugitive) · [redline.nvim](https://github.com/martintrojer/redline.nvim)
