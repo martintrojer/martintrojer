@@ -1,4 +1,4 @@
-I build terminal tools to perfect my workflow and keep poking a wayland compositor that is just like it want it. Clojure and Scala in a former life.
+I build terminal tools to sharpen my workflow, and keep tinkering with a Wayland compositor until it works exactly the way I want. Clojure and Scala in a former life.
 
 - 🪟 [swayward-wm](https://github.com/swayward-wm): [swayward](https://github.com/swayward-wm/swayward), an i3/sway-compatible
  Wayland compositor on smithay, plus [sway-ipc-oracle](https://github.com/swayward-wm/sway-ipc-oracle) conformance tests
