@@ -8,9 +8,6 @@ I build terminal tools to sharpen my workflow, and keep tinkering with a Wayland
  machines
 - 📝 Notes: [mdroots](https://github.com/martintrojer/mdroots) · [ramble](https://github.com/martintrojer/ramble) · [debrief](https://github.com/martintrojer/debrief) ·
  [carddown](https://github.com/martintrojer/carddown) · [vecgrep](https://github.com/martintrojer/vecgrep)
-- 🌿 Neovim: [jj-fugitive](https://github.com/martintrojer/jj-fugitive) ·
- [sl-fugitive](https://github.com/martintrojer/sl-fugitive) · [redline.nvim](https://github.com/martintrojer/redline.nvim)
-- ✍️ [Blog](http://martintrojer.github.io)
 
 <!---
 martintrojer/martintrojer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
