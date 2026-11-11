@@ -2,6 +2,7 @@ I build terminal tools to sharpen my workflow, and keep tinkering with a Wayland
 
 - 🪟 [swayward-wm](https://github.com/swayward-wm): [swayward](https://github.com/swayward-wm/swayward), an i3/sway-compatible
  Wayland compositor on smithay, [swaywardlock](https://github.com/swayward-wm/swaywardlock) swaylock's contract with hyprlock's wardrobe, plus [sway-ipc-oracle](https://github.com/swayward-wm/sway-ipc-oracle) conformance tests
+- >_ [vtmux](https://github.com/martintrojer/vtmux) Drop-in tmux replacement. Modern stack. Better rendering. Live upgrades.
 - 🤖 [mu-crew](https://github.com/mu-crew): [mu](https://github.com/mu-crew/mu) · [murmur](https://github.com/mu-crew/murmur) ·
  [mule](https://github.com/mu-crew/mule) · [museum](https://github.com/mu-crew/museum), a persistent crew of pi agents across all my
  machines
